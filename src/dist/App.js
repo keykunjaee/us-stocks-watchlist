@@ -171,7 +171,7 @@ function App() {
                     React.createElement("div", { className: "flex flex-col gap-4" },
                         React.createElement("div", null,
                             React.createElement("h1", { className: "mb-1 text-4xl font-extrabold" }, "US Stocks & ETFs Watchlist"),
-                            React.createElement("p", { className: "text-sm text-gray-400" }, "Updated using Alpaca Snapshot API (near real-time)")),
+                            React.createElement("p", { className: "text-sm text-gray-400" }, "Updated using Alpaca Snapshot API")),
                         React.createElement("div", { className: "flex flex-col gap-2 rounded-lg border-[1px]\n                  border-b-lime-400 border-l-teal-400 border-r-lime-400\n                  border-t-teal-400 p-3" },
                             React.createElement("div", { className: "flex items-center justify-between" },
                                 React.createElement("p", { className: "text-gray-500" },

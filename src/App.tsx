@@ -139,7 +139,7 @@ function App() {
                   US Stocks & ETFs Watchlist
                 </h1>
                 <p className="text-sm text-gray-400">
-                  Updated using Alpaca Snapshot API (near real-time)
+                  Updated using Alpaca Snapshot API
                 </p>
               </div>
               <div
