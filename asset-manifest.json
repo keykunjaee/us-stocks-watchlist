@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/us-stocks-watchlist/static/css/main.026587a5.css",
+    "main.js": "/us-stocks-watchlist/static/js/main.9caa1f19.js",
+    "static/js/453.6eea0927.chunk.js": "/us-stocks-watchlist/static/js/453.6eea0927.chunk.js",
+    "index.html": "/us-stocks-watchlist/index.html",
+    "main.026587a5.css.map": "/us-stocks-watchlist/static/css/main.026587a5.css.map",
+    "main.9caa1f19.js.map": "/us-stocks-watchlist/static/js/main.9caa1f19.js.map",
+    "453.6eea0927.chunk.js.map": "/us-stocks-watchlist/static/js/453.6eea0927.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.026587a5.css",
+    "static/js/main.9caa1f19.js"
+  ]
+}
